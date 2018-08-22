@@ -1,4 +1,4 @@
-[![Datum](https://applications002.brest-metropole.fr/VIPDU72/DATUM/LOGO_DATUM.png)]
+(https://applications002.brest-metropole.fr/VIPDU72/DATUM/LOGO_DATUM.png)]
 
 
 Outil de monitoring au service de la qualité du contenu SIG
