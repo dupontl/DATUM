@@ -3,7 +3,14 @@
 
 **Outil de monitoring au service de la qualité du contenu SIG.**  
 _Création 2017 - Brest métropole / Service SIG / Laurent DUPONT_  
-
+  
+__Principales fonctions__  
+photographie en quasi-temps réel du dimensionnement et de l'état du SIG  
+assistant pour le maintien en condition opérationnelle du SIG  
+aide à la conservation de jeux de données à jour  
+  
+  
+  
 V1 (Août 2017) version initiale - Nicolas MAHÉ  
    
      . scan des jeux de données, des métadonnées et des fichiers de couches (.lyr)  
@@ -19,8 +26,9 @@ V2 (Août 2018) - Anthony VERGNE
     . affichage dans le tableau de bord des indicateurs, alertes et infos sur les services web  
   
   
-Environnement technique :  
   
+Environnement technique :  
+
   • python 2.7  
   • PytT 4  
   • json  
