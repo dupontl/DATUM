@@ -1,20 +1,12 @@
 [![Datum](https://applications002.brest-metropole.fr/VIPDU72/DATUM/LOGO_DATUM.png)](https://geo.pays-de-brest.fr)
 
 
-Outil de monitoring au service de la qualité du contenu SIG
+**Outil de monitoring au service de la qualité du contenu SIG.**  
+_Création 2017 - Brest métropole / Service SIG / Laurent DUPONT_  
 
-Création 2017 - Brest métropole / Service SIG / Laurent DUPONT
-
-  
-  
-
-
-V1 (Août 2017) - Nicolas MAHÉ
-
-  Version initiale :
-  
-    . scan des jeux de données, des métadonnées et des fichiers de couches (.lyr)
-    
+V1 (Août 2017) - Nicolas MAHÉ  
+  Version initiale :  
+    . scan des jeux de données, des métadonnées et des fichiers de couches (.lyr)  
     . tableau de bord avec affichage des principaux indicateurs, des alertes et autres infos. Tri et filtres.
 
   
