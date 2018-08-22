@@ -1,7 +1,7 @@
 [![Datum](https://applications002.brest-metropole.fr/VIPDU72/DATUM/LOGO_DATUM.png)](https://geo.pays-de-brest.fr)
 
 
-# Outil de monitoring au service de la qualité du contenu SIG.  
+# Outil de monitoring au service de la qualité du contenu SIG  
 _Création 2017 - Brest métropole / Service SIG / Laurent DUPONT_  
   
 __Principales fonctions__  
@@ -34,10 +34,10 @@ Anthony VERGNE
 __Environnement technique :__
   
   • python 2.7  
-  • PytT 4  
+  • PyQt 4  
   • json  
   • ArcGIS Desktop 10.5  / arcpy  
   • ArcGIS Server 10.3  
   • Oracle 11g  
-  .
+  • base de métadonnées maison
 
