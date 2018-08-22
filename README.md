@@ -1,7 +1,7 @@
 [![Datum](https://applications002.brest-metropole.fr/VIPDU72/DATUM/LOGO_DATUM.png)](https://geo.pays-de-brest.fr)
 
 
-**Outil de monitoring au service de la qualité du contenu SIG.**  
+#Outil de monitoring au service de la qualité du contenu SIG.  
 _Création 2017 - Brest métropole / Service SIG / Laurent DUPONT_  
   
 __Principales fonctions__  
