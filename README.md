@@ -1,5 +1,3 @@
-# DATUM
-
 [![Datum](https://applications002.brest-metropole.fr/VIPDU72/DATUM/LOGO_DATUM.png)]
 
 
