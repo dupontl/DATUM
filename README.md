@@ -1,6 +1,6 @@
 # DATUM
 
-[![Datumbox](https://applications002.brest-metropole.fr/VIPDU72/DATUM/LOGO_DATUM.png)](http://www.datumbox.com/)
+[![Datum](https://applications002.brest-metropole.fr/VIPDU72/DATUM/LOGO_DATUM.png)]
 
 
 Outil de monitoring au service de la qualité du contenu SIG
