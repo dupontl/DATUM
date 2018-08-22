@@ -6,6 +6,7 @@ Création 2017 - Brest métropole / Service SIG / Laurent DUPONT
 
 
 
+
 V1 (Août 2017) - Nicolas MAHÉ
 
   Version initiale :
@@ -13,6 +14,7 @@ V1 (Août 2017) - Nicolas MAHÉ
     . scan des jeux de données, des métadonnées et des fichiers de couches (.lyr)
     
     . tableau de bord avec affichage des principaux indicateurs, des alertes et autres infos. Tri et filtres.
+
 
 
 
