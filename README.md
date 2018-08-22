@@ -4,7 +4,8 @@ Outil de monitoring au service de la qualité du contenu SIG
 
 Création 2017 - Brest métropole / Service SIG / Laurent DUPONT
 
-
+  
+  
 
 
 V1 (Août 2017) - Nicolas MAHÉ
@@ -15,7 +16,8 @@ V1 (Août 2017) - Nicolas MAHÉ
     
     . tableau de bord avec affichage des principaux indicateurs, des alertes et autres infos. Tri et filtres.
 
-
+  
+  
 
 
 V2 (Août 2018) - Anthony VERGNE
