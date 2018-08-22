@@ -10,21 +10,24 @@ __Principales fonctions__
 * assistant pour le maintien en condition opérationnelle du SIG  
 * aide à la conservation de jeux de données à jour  
   
+                      
+  
+__V1 (Août 2017)__  
+version initiale - Nicolas MAHÉ  
+
+* scan des jeux de données, des métadonnées et des fichiers de couches (.lyr)  
+* tableau de bord avec affichage des principaux indicateurs, des alertes et autres infos. Tri et filtres.  
   
   
-V1 (Août 2017) version initiale - Nicolas MAHÉ  
-   
-     . scan des jeux de données, des métadonnées et des fichiers de couches (.lyr)  
-     . tableau de bord avec affichage des principaux indicateurs, des alertes et autres infos. Tri et filtres.  
-  
-  
-V2 (Août 2018) - Anthony VERGNE  
+__V2 (Août 2018)__  
+Anthony VERGNE  
   
   Corrections suite à la migration en ArcGIS Desktop 10.5  
   Ajouts :  
-    . production d'état individuels pour la relation avec les référents gestionnaires de données  
-    . scan des services Web  
-    . affichage dans le tableau de bord des indicateurs, alertes et infos sur les services web  
+
+* production d'état individuels pour la relation avec les référents gestionnaires de données  
+* scan des services Web  
+* affichage dans le tableau de bord des indicateurs, alertes et infos sur les services web  
   
   
   
