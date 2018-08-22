@@ -1,7 +1,6 @@
 # DATUM
 
 Outil de monitoring au service de la qualité du contenu SIG
-
 Création 2017 - Brest métropole / Service SIG / Laurent DUPONT
 
 
