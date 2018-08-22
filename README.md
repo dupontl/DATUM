@@ -31,12 +31,13 @@ Anthony VERGNE
   
   
   
-Environnement technique :  
-
+__Environnement technique :__
+  
   • python 2.7  
   • PytT 4  
   • json  
   • ArcGIS Desktop 10.5  / arcpy  
   • ArcGIS Server 10.3  
   • Oracle 11g  
+  .
 
