@@ -2,7 +2,7 @@
 
 
 # Outil de monitoring au service de la qualité du contenu SIG  
-_Création 2017 - Brest métropole / Service SIG / Laurent DUPONT_  
+_Création 2017 - Brest métropole / Service SIG / Laurent DUPONT (laurent.dupont@brest-metropole.fr)_  
   
 __Principales fonctions__  
 
@@ -20,7 +20,7 @@ version initiale - Nicolas MAHÉ
   
   
 __V2 (Août 2018)__  
-Anthony VERGNE  
+Anthony VERGNE  (avikern.vergne@gmail.com)  
   
   Corrections suite à la migration en ArcGIS Desktop 10.5  
   Ajouts :  
