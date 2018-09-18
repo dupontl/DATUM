@@ -13,14 +13,14 @@ __Principales fonctions__
                       
   
 __V1 (Août 2017)__  
-_version initiale - Nicolas MAHÉ  (nicolamahe0407@gmail.com)
+_version initiale - Nicolas MAHÉ  (nicolamahe0407@gmail.com)_
 
 * scan des jeux de données, des métadonnées et des fichiers de couches (.lyr)  
 * tableau de bord avec affichage des principaux indicateurs, des alertes et autres infos. Tri et filtres.  
   
   
 __V2 (Août 2018)__  
-_évolutions Anthony VERGNE  (avikern.vergne@gmail.com)  
+_évolutions Anthony VERGNE  (avikern.vergne@gmail.com)_  
   
   Corrections suite à la migration en ArcGIS Desktop 10.5  
   Ajouts :  
