@@ -36,7 +36,7 @@ __Environnement technique :__
   • python 2.7  
   • PyQt 4  
   • json  
-  • ArcGIS Desktop 10.5  / arcpy  
+  • ArcGIS Desktop 10.5.1  / arcpy  
   • ArcGIS Server 10.3  
   • Oracle 11g  
   • base de métadonnées maison
