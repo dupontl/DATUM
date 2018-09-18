@@ -6,9 +6,9 @@ _Création 2017 - Brest métropole / Service SIG / Laurent DUPONT (laurent.dupon
   
 __Principales fonctions__  
 
-* photographie en quasi-temps réel du dimensionnement et de l'état du SIG  
+* photographie en quasi-temps réel du contenu et du niveau de qualité du dispositif SIG  
 * assistant pour le maintien en condition opérationnelle du SIG  
-* aide à la conservation de jeux de données à jour  
+* aide à la conservation à jour des jeux de données  
   
                       
   
