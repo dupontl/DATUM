@@ -13,7 +13,7 @@ __Principales fonctions__
                       
   
 __V1 (Août 2017)__  
-version initiale - Nicolas MAHÉ  
+version initiale - Nicolas MAHÉ  (nicolamahe0407@gmail.com)
 
 * scan des jeux de données, des métadonnées et des fichiers de couches (.lyr)  
 * tableau de bord avec affichage des principaux indicateurs, des alertes et autres infos. Tri et filtres.  
